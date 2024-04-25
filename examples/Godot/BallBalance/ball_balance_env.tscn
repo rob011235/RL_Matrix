@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://Scripts/BallBalanceEnv.cs" id="1_v6ac8"]
 [ext_resource type="PackedScene" uid="uid://c3i6h5lorshsr" path="res://qbe.glb" id="2_wdyy2"]
-[ext_resource type="ArrayMesh" uid="uid://bk1vro4kbx30" path="res://qbe_Cube_001.res" id="3_6qy2a"]
+[ext_resource type="ArrayMesh" uid="uid://dj5llwsvg3rwx" path="res://qbe_Cube_001.res" id="3_6qy2a"]
 
 [sub_resource type="ConvexPolygonShape3D" id="ConvexPolygonShape3D_nq4wj"]
 points = PackedVector3Array(1, 1, 0.999843, 1, -1, 0.999843, 1, 1, -1, -1, 1, 0.999843, 0.556578, 0.499413, 1.11948, 0.581245, 0.499413, 1.11699, 0.581637, 0.474158, 1.11948, -1, -1, 0.999843, 1, -1, -1, 0.556578, 0.474158, 1.12198, -1, 1, -1, -0.642326, 0.474158, 1.11201, -0.618246, 0.474158, 1.11948, -0.617659, 0.499413, 1.11699, -0.592991, 0.499413, 1.11948, -1, -1, -1, -0.592991, 0.474158, 1.12198)
